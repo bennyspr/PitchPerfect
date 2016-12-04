@@ -13,3 +13,5 @@ This iPhone app allow users to record their voice and then modulate the recorded
 <kbd>
 <img src="https://bennyspr.com/img/github/pitchPerfect/Simulator_Screen_Shot_2.png" width="200">
 </kbd>
+
+![GitHub Logo](https://bennyspr.com/img/github/pitchPerfect/Simulator_Screen_Shot_2.png)
