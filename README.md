@@ -6,7 +6,7 @@ This iPhone app allow users to record their voice and then modulate the recorded
 <br><b>Language:</b> Swift
 <br><b>iOS Deployment Target</b> 8.4
 
-<img src="https://bennyspr.com/img/github/pitchPerfect/Simulator_Screen_Shot_1.png" width="200" style="border: 1px solid black;">
+<img src="https://bennyspr.com/img/github/pitchPerfect/Simulator_Screen_Shot_1.png" width="200" border="1px solid black;">
 	&nbsp;
   	&nbsp;
-<img src="https://bennyspr.com/img/github/pitchPerfect/Simulator_Screen_Shot_2.png" width="200" style="border: 1px solid black;">
+<img src="https://bennyspr.com/img/github/pitchPerfect/Simulator_Screen_Shot_2.png" width="200" border="1px solid black;">
